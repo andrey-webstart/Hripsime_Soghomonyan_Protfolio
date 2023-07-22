@@ -1,0 +1,31 @@
+.nkar1 {
+    display: flex;
+    justify-content: center;
+  }
+  .h1 {
+    height: 50%;
+    text-align: center;
+  }
+  .button {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    border: none;
+    color: white;
+  }
+  .nkar {
+    display: block;
+    width: auto;
+  }
+  .dflex {
+    display: flex;
+  }
+  .dflex button{   
+    width: 0px;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  .dflex:hover button {
+    display: inline-block;   
+    width: 30px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.6);
+  }

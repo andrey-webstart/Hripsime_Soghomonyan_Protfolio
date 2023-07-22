@@ -1,0 +1,17 @@
+.im {
+    width: 320px;
+    height: 390px;
+    background-image: url(./Hripsime.jpg);
+    background-size: 310px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    overflow: hidden;
+}
+.im p {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin-top: 100%;
+    padding: 13px;
+    text-align: right;
+    width: 310px;
+}

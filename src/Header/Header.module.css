@@ -1,0 +1,30 @@
+.menum, .errormenu {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.errormenu a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.menum li, .errormenu li {
+    padding: 15px;
+}
+.menum a, .search a {
+    color: rgb(57, 57, 57);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.errormenu li:hover {
+    background-color: rgba(0, 0, 0);
+}
+.menum li:hover {
+    background-color: rgb(255, 255, 255, 0.5);
+}

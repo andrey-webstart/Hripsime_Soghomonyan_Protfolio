@@ -1,0 +1,30 @@
+.anun {
+    display: inline-block;
+    height: auto;
+    width: 72%;
+    text-align: center;
+}
+.anun h1{
+    font-size: 50px;
+    padding: 10px 10px 5px 10px;
+    color: rgb(57, 57, 57);
+}
+.anun h2 {
+    padding: 5px;
+    font-size: 30px;
+    color: rgb(57, 57, 57);
+}
+.p {
+    font-size: 20px;
+    padding: 4%;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    color: white;
+}
+.anun button {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    margin-top: 10px;
+    border: none;    
+}

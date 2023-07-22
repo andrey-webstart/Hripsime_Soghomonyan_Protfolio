@@ -1,0 +1,35 @@
+.menumm, .errormenum {
+    width: 100%;
+    display: flex;
+    /* list-style: none; */
+    justify-content: center;
+    margin: 10px;
+}
+li{
+    height: 100%;
+    /* list-style: none; */
+    overflow: hidden;
+    padding: 10px;
+}
+.errormenum a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.menumm a, .search a {
+    color: rgb(57, 57, 57);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.errormenum li:hover {
+    background-color: rgba(0, 0, 0);
+}
+.menumm li:hover {
+    background-color: rgb(255, 255, 255, 0.5);
+}

@@ -1,0 +1,9 @@
+
+.poqr {
+  display: flex;
+  justify-content: center;
+}
+.id {
+  width: 30px;
+  height: 30px;
+}

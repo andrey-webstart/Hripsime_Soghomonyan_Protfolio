@@ -1,0 +1,46 @@
+.title {
+    width: 310px;
+    text-align: right;
+    border-bottom: 1px dotted white;
+    padding: 15px 13px  0 0;
+    margin-bottom: 10px;
+}
+.skills {
+    width: 560px;
+    margin-top: 5px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-bottom: 5px;
+}
+.part {
+    display: flex;
+    border: 1px solid white;
+    margin: 0 10px 10px 10px;
+    border-radius: 25px;
+}
+.part100 {
+    width: 100%;
+    background-color: white;
+}
+.part90 {
+    width: 90%;
+    background-color: white;
+}
+.part80 {
+    width: 80%;
+    background-color: white;
+}
+.part70 {
+    width: 70%;
+    background-color: white;
+}
+.part60 {
+    width: 60%;
+    background-color: white;
+}
+.part100, .part60, .part70, .part80, .part90 {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px; 
+    font-weight: 800;
+    padding: 3px 10px;
+}

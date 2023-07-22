@@ -1,0 +1,25 @@
+.table th {
+    padding-left: 15px;    
+    font-weight: 200;
+    text-align: left;
+}
+.table {
+    font-size: 18px;
+    color: white;
+}
+.table {
+    width: 72%;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.table tr th, .table tr td {
+    padding-right: 10px;
+    width: auto;
+}
+.title {
+    text-align: right;
+    border-bottom: 1px dotted white;
+    padding: 5px;
+    margin-bottom: 10px;
+}

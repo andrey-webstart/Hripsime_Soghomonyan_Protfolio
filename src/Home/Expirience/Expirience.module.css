@@ -1,0 +1,29 @@
+.table {
+    margin: 5px  165px 5px 5px;
+}
+.table th{
+    font-weight: 200;
+}
+.table tr th, .table tr td {
+    margin-right: 10px;
+    text-align: left;
+}
+.table td {
+    width: 57%;
+}
+.table {
+    font-size: 18px;
+    color: white;
+    width: auto;
+}
+.table {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.title {
+    text-align: right;
+    border-bottom: 1px dotted white;
+    padding: 5px;
+    margin-bottom: 10px;
+}
